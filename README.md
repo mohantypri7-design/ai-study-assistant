@@ -59,17 +59,17 @@ The implementation is structured with an ultra-modular **Full-Stack Node.js (Exp
 
 ## 🚀 3. Core MVP Features Implemented
 
-### **Level 1 (MANDATORY)**
+### **Level 1 
 - [x] **File Drop Upload**: Fully functional drag-and-drop or file selector accepting PDF documents and TXT course guides.
 - [x] **Direct Text-Copying**: Copy-paste notes canvas with titles to allow immediate studying without creating file files.
 - [x] **Revision Summary Engine**: Generates a high-quality Markdown revision guide with bolded key terms, structured topics, and summaries.
 
-### **Level 2 (GOOD SCORE)**
+### **Level 2 
 - [x] **Active Recall Flashcards**: Interactive 3D flipping card panels with correct-wrong master status tracking.
 - [x] **Interactive Assessments (MCQs)**: Multiple-choice diagnostics rendering 4 option buttons, revealing color answers instantly with corrective explanations. Includes a final diagnostic scorecard.
 - [x] **Exam Practice Questions**: Conceptual mock exams with collapsible textbook model answers for self-study.
 
-### **Level 3 (BONUS MARKS)**
+### **Level 3 
 - [x] **Multimodal PDF Processing**: PDF binaries are read directly in the client and passed as multimodal parts to Gemini, enabling OCR translation of scanned chapters, equations, handwriting, and diagrams.
 - [x] **Tutor Chatbot (RAG)**: Chat directly with your study text or PDF. Ask follow-up queries, simplify passages, and outline difficult homework problems in real-time.
 - [x] **Session Save & Resume**: Store multiple note files in the directory. Easily switch, load, rename, or delete past session units.
