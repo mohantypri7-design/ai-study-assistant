@@ -1,0 +1,8 @@
+demo-vdo/*.mp4
+.DS_Store
+node_modules
+dist
+build
+.cache
+.env
+.DS_Store

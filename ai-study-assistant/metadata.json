@@ -1,0 +1,8 @@
+{
+  "name": "AI Study Assistant",
+  "description": "An AI-powered tool that summarizes PDFs and notes, and generates interactive flashcards, MCQs quizzes, and exam study questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
