@@ -5,4 +5,4 @@ dist
 build
 .cache
 .env
-.DS_Store
+.DS_Store.env
