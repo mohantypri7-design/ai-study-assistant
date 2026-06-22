@@ -1,3 +1,7 @@
+## demo video 
+👉 watch here:
+https://youtu.be/Ul3TMRJsq18
+
 # AI Study Assistant — Final Project Blueprint
 Welcome to the core documentation and implementation guide of the **AI Study Assistant** (Final Project Blueprint). This application enables students to turn complex PDFs and textual notes into powerful study formats—containing structured summaries, active-recall flashcards, mock multiple-choice question assessments, and textbook practice exams.
 
